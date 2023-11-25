@@ -1,0 +1,26 @@
+{
+  "name": "Jeremy Williamson",
+  "age": 20,
+  "address": {
+    "street": "Ulogu Terrace",
+    "city": "Lusejfe",
+    "state": "NJ",
+    "zip": "72322"
+  },
+  "contact": {
+    "phone": "(800) 250-4762",
+    "servicePhone": "800812116"
+  },
+  "birthday": "1977-12-07T10:17:16.925Z",
+  "ip": "1.184.18.221",
+  "foo": "bar",
+  "profile": {
+    "about": "Hof taszij mukewol se ewakez usu pavul caw poggoz rehesoeha lafcicdig ras. Viw iba hojtigsic pavorpod jep vihille ca gajzakuc zerjotde febdirep ifa luknu me. Fa gotug lu ka nog caz opa vojoap harbumir gum jagras kow oz.",
+    "bio": "Dusgoppo dakarook wu ataha hiweg ipimu igkiblan duhefsof zok donig gekeli rufgimjek uroit kawjidgo zeciz iwe. Tit ro geohioh ropbu cuimawe ticcen ote jo giame godapevi duhtizwi zi jow dehoga. Meckemro powofa ka de tobian enulu avozenow wejete no vu rubci junirah. Upe zab foz lernaj ij azivi jiran raji uf ju fegitafod cocjuz wewzale. Pu pojfisa ed ko rugvag lebogkul lawapgic oreno topha em gu zi ku mib jupe jogu guam wawoeso. Be umeme causotem us meka jo oz gut ogoro es kumdocuf koci zek ubikoso viwa. Asju ravmi tob zinuz zivuf as tubez tomfufu luvwib ivo cuol wow zegos copsejpe wo vifiteg loumvap awemah."
+  },
+  "apiKey": "4acada6b997f478ac013683391e6926dd4ace0aefc84e8abe460a86643ae2c26",
+  "currency": {
+    "code": "CRC",
+    "name": "Costa Rica Colon"
+  }
+}
