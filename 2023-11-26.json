@@ -1,0 +1,26 @@
+{
+  "name": "William Owens",
+  "age": 63,
+  "address": {
+    "street": "Suar Grove",
+    "city": "Gerudaz",
+    "state": "OK",
+    "zip": "52913"
+  },
+  "contact": {
+    "phone": "(774) 577-7637",
+    "servicePhone": "800268953"
+  },
+  "birthday": "1986-03-25T18:22:49.381Z",
+  "ip": "187.161.45.48",
+  "foo": "bar",
+  "profile": {
+    "about": "Vi bumtiwe su jeppe vascekvi hig seb dum jabug zopego silu negiem job apici bir emu. Mehcom urdi ro wenguje johgu iho papwuw ahulekig degpige icucopnap muwcidon fe etuzoj adnes. Ekewosga no pe ego zuev bigi kutpu lisi ulu cu hec toacar. Zef hitinak patfeg wal saj jem uvfewir rikci ucogo inap huvco je hijfaep vuniruk zuali. Me ehapo pitasuho ca cakihvev nis kiz lah ki onawiiv biz ruzigni lej cobva zewdud owu. Otimoka ka vuzgaj mehot edceg wug kedhukpen levnovhur dihni kup bekegijoh jak jeispeg numteka dinadan. Usecemno gibkiez va ziccep inseneh ke ok nizvoknic ifgu bechuczop leniam kib jumotvo tibo luka jamsuem veru.",
+    "bio": "Funtuwez osiivote gul aw sen obihimob corjog cofham zop dehulse ulweude oj hagub go nehhigi suzci. Wegresfa ehudi jep sabelmo os uli ceejodi cuwsavgo kuk hihomzal ov iku mih. Utiogubeh tife suna dan je zeubi pekce eweahi joatifet zapuku novovu lonmi cohobede nugireki."
+  },
+  "apiKey": "7d0d8cca3d4e9ccf10feea2fa33e4c690e0aa5d7e3e94594020f7fc48e3a5ed4",
+  "currency": {
+    "code": "CHF",
+    "name": "Switzerland Franc"
+  }
+}
