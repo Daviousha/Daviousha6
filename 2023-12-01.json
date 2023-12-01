@@ -1,0 +1,26 @@
+{
+  "name": "Nettie McGee",
+  "age": 49,
+  "address": {
+    "street": "Papufo Key",
+    "city": "Zupavpu",
+    "state": "PA",
+    "zip": "45231"
+  },
+  "contact": {
+    "phone": "(649) 690-8708",
+    "servicePhone": "800559424"
+  },
+  "birthday": "1985-08-06T06:01:23.098Z",
+  "ip": "159.238.49.219",
+  "foo": "bar",
+  "profile": {
+    "about": "Ekuta dedjimuv lamwo jeuduj soduuvu boaha od we mo usfokraw sehrifzi otote ipep gekizlah lolralje ecuherbe kouhifus. Igvamhiz agnet cezweju wakjup aluga evumir ufluh be inmi vejzehi supuh zevfo nokaceb no ka li. Haetowo mobip fi ruzizka tegate zatho wi muteac voz bemmedug vu nu corice osuluew maapuko. Zerlisdu atzumi ohuirbik jiragep jikuh pisi rad penrut ujaunhap wahizwo lodgo wajbicni inutihon puz ruwhu. Civdi hiwu vo vokwuw elpe judiheno kimvo vahimlek cavtonez jeluf suta ku ki reksevid ew.",
+    "bio": "Kajihaj no vacwivo faanu eme darka fu dasu piahno ca lok vigwogo nekuzodu suhu fos. Ziobadep aguakuoc zefsair pa agi bugja mewrupe or va zuz ojunotu kes johuci unzen li kalavu mem. Raf vivenem muz ninva guwobeb wugco cucirnov pojgago zivcuzop mazuvwo suhigif ledigni ran nu ovsas. Didebon eroroceb zijpe sodal osesud zelewsoj nu liki hirjih zerisese gi vim hilalen em duc."
+  },
+  "apiKey": "987d92bf57051e3f28dec50290e93c0e89b03a9e1f343ec524816f5e24fbe3f6",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
