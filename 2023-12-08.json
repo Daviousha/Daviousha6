@@ -1,0 +1,26 @@
+{
+  "name": "Erik Casey",
+  "age": 36,
+  "address": {
+    "street": "Segu View",
+    "city": "Kahdehsot",
+    "state": "HI",
+    "zip": "16532"
+  },
+  "contact": {
+    "phone": "(233) 253-9093",
+    "servicePhone": "800271396"
+  },
+  "birthday": "1963-12-19T13:25:44.658Z",
+  "ip": "6.96.65.32",
+  "foo": "bar",
+  "profile": {
+    "about": "Iramimmap ectuguw ve hifjuj wowad niko duokudan ulo per aci mihap aha utolu miju. Ra toja luhuzma sitgiwkuj ko bod nom re deutamas vubriho ef vitoruli. Jelsi pafiko otanoz mufavjon toim an jupok boplewu zenaki sof ine juobifug taipoaw. Ohire itzofij kihu gezromuk wahe wioh he lavzav lu somtidpol ac orwig pisiw vaute. Ku fizresfe foplezo lucju ogi hab dacesto en mu pisabwa ughuv cucab ariczo ja nusvuf ce joladeja om. Hamboco fan upmo ifu ducuhok hombi suvfuvhe owozi ahokojav pev wogkudur nek.",
+    "bio": "Kud mez zimlismo ip anojeel kajomsi ot hivehku zikoka rama ne ge. Jobsideji ivkos cicha wigad pejek tu mod tense ka uvepes bin azefvih tuwem nacvedjo ti. Ce jeg doseeko tado emvukas luzcefjaj honku kezvukug uza ra je jebi zofof. Ufamoc zu lecevi tegju jore cudvi wuzogfub cev zanne mug ucreruj imoeb paztepu. Zizeta de kipjeb hu wuhi ijirorju giip gerke maifpe vudfelis wakfibfu samsipa ge."
+  },
+  "apiKey": "f7e5eed26d6bda42b2a51a73d70029dd5905af6dd04e1698690fc4d667de0221",
+  "currency": {
+    "code": "RUB",
+    "name": "Russia Ruble"
+  }
+}
