@@ -1,0 +1,26 @@
+{
+  "name": "Eugene Harper",
+  "age": 20,
+  "address": {
+    "street": "Urpi Park",
+    "city": "Aksoote",
+    "state": "UT",
+    "zip": "99289"
+  },
+  "contact": {
+    "phone": "(943) 546-6969",
+    "servicePhone": "800128741"
+  },
+  "birthday": "1959-02-15T21:24:46.932Z",
+  "ip": "78.80.86.137",
+  "foo": "bar",
+  "profile": {
+    "about": "Lamni pijmalub wafidur baoc ogopocuf jo kuhob beb la jofok waace te cirivfac ok enjer tir. Faav aru tidut adifopleh baik vu supofuj digrok wupmugme nukave iloehi set. Giruko jif ah fene mofoevi ga puvdohsic id ohaak catu fi litib akenorove ojuwenos ve zag jawmep ne. Ra pagfefu juhuco uvi ma belfepo ju eco gehurgev bulun cega fuk pivhez gacgew puzhidas lazeb es kaldizip.",
+    "bio": "Bowmo joleh ozupe pej arvol cufniw pag rozkocvu hedam owam gikure vaf jakukomu ke zinopva ke. Temawi am vime pohgaf pakwe wogiw no zizhev kisfe dajo ehnano fap widtop. Olfini dal helewi cahelo igmulag afu muh zo vejet le ofce tes nuzhuwdan poj fizfav duemi farip dovnit. Buozuniw ded vialat gi wobre pavulla onomotur neitev das hu ice gizve zih tiwikrup jumi. Tuogupo mihemhow kivu nif wubhor rosgi bipico fidco venis girezugi bitofuz vof oboremop ve ownorne tif inesazic hujevgo. Cacozeke le udfildes cekcieru ceve waiw fim zikzefla hifdiide mofah doreroj udrolriw ikuzabog ve."
+  },
+  "apiKey": "df339bde63552eda39081daecf11874bbedae11f0bd33075582befc2495ec96e",
+  "currency": {
+    "code": "CNY",
+    "name": "China Yuan Renminbi"
+  }
+}
