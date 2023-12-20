@@ -1,0 +1,26 @@
+{
+  "name": "Francisco Park",
+  "age": 45,
+  "address": {
+    "street": "Coule Highway",
+    "city": "Wobepje",
+    "state": "CA",
+    "zip": "40290"
+  },
+  "contact": {
+    "phone": "(783) 854-9815",
+    "servicePhone": "800978387"
+  },
+  "birthday": "1969-03-15T03:25:10.625Z",
+  "ip": "137.8.240.77",
+  "foo": "bar",
+  "profile": {
+    "about": "Wumaopo tenavaz tipoz hegiv zi cuvi kowzasco ufulo tuku kucsucuso nuor heocimu moj koriw imhossu lejdo tepuz. Zej tari awijufwe el pozzi nek me il lo vec giite pe jajimi gare has uggeb. Rim acecem rehza co zogvamne sabvu oje rewad muozika beti va tudu. Gu tocogkol fudalze ujaif munjek keuf ruvvuzso renomfun rel je rucos dov huk lufno. Ekuekso nispew wagjape poene sicak ticod ritdafek nuhna ma dakregohe cu ripajer zep bahdusej jih amgi fufnoepo ewuik.",
+    "bio": "Wup eckakhoj ijuci fevamti poudo omahi gipitaomo sa noh usgewik nuvom cozir wik av ajgajjud zuvti. Wasowro cur sidtaos jik ov kegkana vimzo tezkoh dehe par wuvfucuvo gumad ikecid apganpa ulhethij otju gim tulekfor. Decluwoha dokor buwelhu ozrojen tef cakag bofugko vorfiimu opdaki niblif rut forusac fuijrer erorotwih cesakic uja rusuvzu far. Fipeg ud ahidoskeg ugperja do tifaki epcov uhumudfi wizi vopciw aroog niuri patuaf aw bohehvo waczemoru milol."
+  },
+  "apiKey": "ca82dce890813ffc899ecaa6776ae005fe1ec5bad9d46be8a58fd8527a0c40b9",
+  "currency": {
+    "code": "NGN",
+    "name": "Nigeria Naira"
+  }
+}
