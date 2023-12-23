@@ -1,0 +1,26 @@
+{
+  "name": "Madge Tyler",
+  "age": 33,
+  "address": {
+    "street": "Fawa Ridge",
+    "city": "Dujijpo",
+    "state": "IA",
+    "zip": "12579"
+  },
+  "contact": {
+    "phone": "(420) 895-8002",
+    "servicePhone": "800584724"
+  },
+  "birthday": "1967-04-08T12:21:24.922Z",
+  "ip": "106.196.72.166",
+  "foo": "bar",
+  "profile": {
+    "about": "Pezub linu piledub kagha be guhgo akarejpiz da edhocnuf wootwag kasze do fon vun soktu colahwev cik. Sazzom nodagur vuneda kabno bohethic utbop wu uhovajjoj kicijun ge sulba demewo deljolo totsul senu ezutuzjaw ujuucakot. Ko teh osogu lam lezik in siz nev cuvgubaz kusahu tevla mezticora inna. Hutaha alof imagukvus tan jagi utaerop zedu ideufcup boj zer fasfoli gulusi.",
+    "bio": "Aj wa kof unromja zi tuzis horheno neumu runduj luhga tobperzoj paj. Lasira civba nan takiido uheitevev te uve huhutvul ikiju tev uslatfo fa. Dezjika jasfaguc veh zoen poprendi cadecir odetipaf up ijsegos rimcuzde luh gafkom fuiviva cedwurizu ojojempol."
+  },
+  "apiKey": "7d7109228865dced3ead0e0c78490af1154cde0ad6c9e23cc36373945bd72fb1",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
