@@ -1,0 +1,26 @@
+{
+  "name": "Mildred Andrews",
+  "age": 47,
+  "address": {
+    "street": "Gimdes Key",
+    "city": "Diinru",
+    "state": "PA",
+    "zip": "35375"
+  },
+  "contact": {
+    "phone": "(947) 791-8525",
+    "servicePhone": "800993732"
+  },
+  "birthday": "1989-01-10T00:42:32.608Z",
+  "ip": "246.32.233.210",
+  "foo": "bar",
+  "profile": {
+    "about": "Nipe okrarti un umutugim buzubeda hupinvol lu otpuc do lorictev ten vutsijoba wag petgu rutbe. Sa to biino oj raza nezetgeb hu up ji kew roczaof zipworo ehheki sizhamu ako ode tiva pegu. Nufafow paruw kivoguf dazure afa ivilas puc vaetef koegi ce ne wudo sade iftaldac.",
+    "bio": "Afapuc hirtol setikas kebo imta giejomed ekavi cakav ta eco serrupdul kalin tiz cub ewoib linnaheje sosalwur. Ub cusiz ru rivagas hoj josofcur pi zi gawazhu okeleh hugulpap ni. Fupokwew ra ugi fujjagal winer doh tafvowzir lac lupowol vuzi diw fozsifce."
+  },
+  "apiKey": "a9678e60b2ccffc603e40e602d17be280fe42e58c1f772ca97c60741bc5be2c4",
+  "currency": {
+    "code": "KHR",
+    "name": "Cambodia Riel"
+  }
+}
