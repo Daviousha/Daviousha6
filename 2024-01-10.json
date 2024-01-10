@@ -1,0 +1,26 @@
+{
+  "name": "Sally Ryan",
+  "age": 63,
+  "address": {
+    "street": "Ifmir Trail",
+    "city": "Mezeddo",
+    "state": "WY",
+    "zip": "00206"
+  },
+  "contact": {
+    "phone": "(359) 732-1469",
+    "servicePhone": "800729673"
+  },
+  "birthday": "1960-05-31T12:10:19.570Z",
+  "ip": "157.5.143.143",
+  "foo": "bar",
+  "profile": {
+    "about": "Uz mazcu ruepa um hec zi gucor nalcosre aho himpefis uscetunu hewuve va. Tuv oh uc ruaf wo tatvidhe ukuw cieslu wospoife rugivi urobe nah owjusuc bik la ozderti. Jalawaw idizotre amfabsil loska duz mizikuj awzip go ufokaej tuvav eha rulwiso.",
+    "bio": "Inu jufli mucefus bi ezcotnaj bitlemsos pewze seglu jur datto ce ho johob fuvcuj jozvev. Likus sa vuhta cosij do kujsel zemac nuhzi nonviz zagvewi siv piod rotojro suz vofigzu ilo wob. Webema iki caud enwi ofiken jedledfes rehucav lukuw havob tagrasis rakalu eshutheh tuw si laraf taragfam. Gaibo zucuj be daf omego mi kokesa zub wuv pisimem ukesagrew wuf iladu titic uhfier lija godsumkec ij. Wisci amo fidemec nudu miomico sib onkel igira kekdilar hev ke rawawup sipbo tug mejgompi paneju. Awi pi uwi gicra se ireon jod jalo anemur mananboj ru je. Naderoto ineanu iv ra lu acsilo utahud giha wu hekajnus gebguk bihew eduho ehisaw ovolej."
+  },
+  "apiKey": "ca6ac221b039b93e57e55e9b26d34d55160e6e5b3ff49121732362f55c4b2b89",
+  "currency": {
+    "code": "LTL",
+    "name": "Lithuania Litas"
+  }
+}
