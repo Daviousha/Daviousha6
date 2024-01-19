@@ -1,0 +1,26 @@
+{
+  "name": "Isabelle Doyle",
+  "age": 48,
+  "address": {
+    "street": "Hezuw Street",
+    "city": "Akeavoto",
+    "state": "OH",
+    "zip": "71249"
+  },
+  "contact": {
+    "phone": "(610) 949-3462",
+    "servicePhone": "800618566"
+  },
+  "birthday": "2006-01-19T02:58:20.370Z",
+  "ip": "11.130.136.131",
+  "foo": "bar",
+  "profile": {
+    "about": "Sazasjaz hehibiw oji pig ujuseji uwcovek togi enaodoan fa nisiiz va bumufuwi zovi jupas ogu cejap maoka sodpimres. Zucijepik rimzo umoozguz evoba tim inazbo sir buzmo legtinob vu zihma ju. Vitoak huwdol mijuk hauju mala ito meris uw mi ucu zeme wi coarwu bawivta fu owcepeca reihola.",
+    "bio": "Sodvovise wicwelmah ciskisuma erano ab ihuwubabe nepascuh sok wepde loh hekkuto hu pu tek sa pe jan ma. Warjuuku micsivo lulvunam midsu jakhot ebzil juhku raih fuz fowohocu mab boc awwew mejel uvlo. Uwliile up itceuka fi uz ka boiriwe iglilvo gujutafu tijse je ezojinpah kuvom tami fiwta kifuwu ve."
+  },
+  "apiKey": "35776f6dbd419095913bf8387682ac3806ec8866e5f6bf43c8046e72649059fd",
+  "currency": {
+    "code": "EGP",
+    "name": "Egypt Pound"
+  }
+}
