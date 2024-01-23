@@ -1,0 +1,26 @@
+{
+  "name": "Franklin Phillips",
+  "age": 64,
+  "address": {
+    "street": "Wonuf Manor",
+    "city": "Todivos",
+    "state": "MO",
+    "zip": "18097"
+  },
+  "contact": {
+    "phone": "(447) 577-4685",
+    "servicePhone": "800627766"
+  },
+  "birthday": "1964-05-03T13:21:32.113Z",
+  "ip": "173.72.254.34",
+  "foo": "bar",
+  "profile": {
+    "about": "Ba zew waenegis ova lugsiov nowleb dut sefcib acegoris pe upuiz verok bahwu gi hiviti suup. Dij lan nufaf niv ika naztik wazel vohfekki wekikotuv tinabo feh pi lenwupe hehu. La zawcivbe bemij rieni dudri gacos odaloguz gi mu go dum selojke.",
+    "bio": "Cakip eb pe esehaki el div lartij citce dudeir du ru deblota mo. Vefnirlof canadjid uzawofis famabwez jiwme zaz del zurum er cikasko beb cerajet pafibos pec becif hov. Jiitvav nuguho ne vuzezbu hofwej ejapuzze bafu amwacse ko fotuv zifori buwwuju ig. Vajoto wawlecfe ne lowaret ufni fe iv fabet osu hi ugbim gumuhu noafces re ek lovizos."
+  },
+  "apiKey": "9ceb926822a512b1868835c942a5cf081f7a28ea659adff7e67b163933fd1bea",
+  "currency": {
+    "code": "PGK",
+    "name": "Papua New Guinea Kina"
+  }
+}
