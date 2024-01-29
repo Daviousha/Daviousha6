@@ -1,0 +1,26 @@
+{
+  "name": "Alan Dean",
+  "age": 35,
+  "address": {
+    "street": "Caka Trail",
+    "city": "Doduciw",
+    "state": "MD",
+    "zip": "72612"
+  },
+  "contact": {
+    "phone": "(783) 301-8750",
+    "servicePhone": "800331576"
+  },
+  "birthday": "1987-12-08T12:37:06.271Z",
+  "ip": "220.145.12.73",
+  "foo": "bar",
+  "profile": {
+    "about": "Ul iwtavda cuvbancoh emu vac egtacju zerkokcek malnam bepweraj ra obmomfi ukaiw an osipuz. Maonlo nasiniku ze ji se rehira civi sig ebu otodo gorve rusikhe me ocazekake wipalna ju siw si. Gi kerwu gipum amtosela hor vazow him sihuwku labco korifuf rewalis lajseh efu.",
+    "bio": "Nibtafkid mi gi ok eliwose suhuduve fal fu ehzat luhu esuza osoluk duf ikare runmijaf biwwudtit dohama. Azuzuk ugfodlar wewo ka na opgih mehiflu wupocwe rokug icpo segtel korurjiz. Pu oha vo pop copeh wub matitgih mecpikza aknig ihwujib cosu matrun ratouri du. Maza pi sewah jejmagef zo wuwesug jolkok de meju jikmucwin wef jemo kofzejob fu."
+  },
+  "apiKey": "681af3e325ef1e829af97e44a7f5b5ed3b174c910a42a77850e6232e1f541b0a",
+  "currency": {
+    "code": "ISK",
+    "name": "Iceland Krona"
+  }
+}
