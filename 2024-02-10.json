@@ -1,0 +1,26 @@
+{
+  "name": "Bobby Wong",
+  "age": 46,
+  "address": {
+    "street": "Fija Street",
+    "city": "Pelipren",
+    "state": "NJ",
+    "zip": "99331"
+  },
+  "contact": {
+    "phone": "(238) 255-2313",
+    "servicePhone": "800569627"
+  },
+  "birthday": "1995-04-10T07:00:45.069Z",
+  "ip": "65.31.2.132",
+  "foo": "bar",
+  "profile": {
+    "about": "Me wo fo lakebiv can jeup hu za obju wafit biplarbec daspuw nueltuz heheglor jubir. Diw sorfaw niviw tavvofi gecuudi or riim lezna pa te vecap cisjil zurorus muhetru ga uwbe sihigof nihgi. Wegivi teer mobmi odwak sucfiis hutpu pi ego vebsu zuvziv jek acba ziwalve piati leezizun sima ozpeb.",
+    "bio": "Mes ba isudalat sufarva hatil pij tepabuj wut umza towidufo pawvomano ebupeuwe as nipad kekhef iwhul zijef. Roovo rog dap gi fim icnoser po owpioba aponef eve nof ogefuen detegre tahekum de hefej bakzig rabok. Sero bez vek zoonekak bafor mistu we lamristed inic rowep debcaw ihelojni cazmo zetujfu pic saw keh. Hunbedu de cejasdi ijgaruz jop efaunton buefnoh rusubled wimifumo jup uzhugjew atoowota wopa wecdicar pow agofeere sufgoncom. Ziv jaemimu boctoh amobaet vovidhi kaecfu sooh nupuf kajtulfik ravte ub ib maga ri igo openul ek."
+  },
+  "apiKey": "17eadef78ba523be9fa0f4e9f53eb8f39911622d024a880f6f5e3a779e5ca058",
+  "currency": {
+    "code": "CUC",
+    "name": "Cuba Convertible Peso"
+  }
+}
