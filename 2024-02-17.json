@@ -1,0 +1,26 @@
+{
+  "name": "Ann Parks",
+  "age": 37,
+  "address": {
+    "street": "Jenvi Glen",
+    "city": "Biidrok",
+    "state": "KS",
+    "zip": "56582"
+  },
+  "contact": {
+    "phone": "(629) 415-1841",
+    "servicePhone": "800847442"
+  },
+  "birthday": "1961-10-01T20:34:02.767Z",
+  "ip": "107.124.119.210",
+  "foo": "bar",
+  "profile": {
+    "about": "Rozcafuf ohiewo tosebide ku izuhud sosus lawuma mihkimew do dad siopo te eb vavjor cidwi. Oteti cesorjo vinocpu re fir vesbezcav muvzuhe ugdi kodunnah pagsifki meiwga ebuvin nuv. Ba bo utijus uh jem fi iri fidjoczad vip wisosu jid ifcagcu vew raohino udpuz taeleco fab mol.",
+    "bio": "Mipowenuw dugedotas na gali zi wozzuso asemug unpejobu liomrin ec ewrote we gujdugo oldewo. Nasgunu wom voini dokiac nutire mogol punohzil rurale asvu ribuof dic ormehge nezbi cunwa cefdo pisog. Tuduaru popefoh jezu kan dezkes dohev ewevojpe ito karuic mauv ju tor novgoge zihtog welatup pu vomosu."
+  },
+  "apiKey": "05c907e9a34c3ed7744e0665fa0b5ad2f4cc84329bb22418d9097c3941fa96b6",
+  "currency": {
+    "code": "IRR",
+    "name": "Iran Rial"
+  }
+}
