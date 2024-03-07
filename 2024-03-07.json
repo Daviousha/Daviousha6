@@ -1,0 +1,26 @@
+{
+  "name": "Ada Berry",
+  "age": 65,
+  "address": {
+    "street": "Neli Grove",
+    "city": "Seohesu",
+    "state": "ME",
+    "zip": "96733"
+  },
+  "contact": {
+    "phone": "(626) 769-9323",
+    "servicePhone": "800465587"
+  },
+  "birthday": "1969-02-10T10:09:13.187Z",
+  "ip": "221.216.182.161",
+  "foo": "bar",
+  "profile": {
+    "about": "Ninazow li laese kujehun duhkonron fewataze dopri udopaj kikowo ici risse weh beweeju giwsavdo. Kep va arlejfed lupetgez pu uluzca gurcogvan wa osute afe boz gicuvjo awe sam ede nagvarse jabiwvi upeput. Digohupi cocpiure teb uv epezu ini wan judrab fabho cimuva iseodbu ag zepbitkuc. Hepsufe jecaki fipeb ediuwpa waobnah tene juki nem obeutina gafanasid dazhidwik bonvuca madcutdin ta tuscibevi subpa balege wotsonuj. Inehucku podeskav kekoci atcefdow ni tocegu lakfar mukociviw sisjej raeru eg ica ilaso ujupo.",
+    "bio": "Mufuja ifvab me guser aza golnagram ese zisha awiomi ef wur co zuh vil utucejwam lo likzutu. Ufowerag pirjep za kuge octit nujvi luwehef pu kujeb nu fal baf aragon pes homcedmol kohzo ef. Ulizigkum we soj eliehefo zojis pe tedhuda wotjukis bidnamod ovuh datvol buetuefu wihcuwuf isfemom se. Legeg zuuctik ejbag le comjob me atuhke tapjowup ezsum jujgu gu moguz la timpacgow nuigoow."
+  },
+  "apiKey": "c34c1b1886b0d589e51bb8e7f3b29358c9fce4f52f712b61b43abbed75e5e7f4",
+  "currency": {
+    "code": "BND",
+    "name": "Brunei Darussalam Dollar"
+  }
+}
