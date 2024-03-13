@@ -1,0 +1,26 @@
+{
+  "name": "Ivan Estrada",
+  "age": 29,
+  "address": {
+    "street": "Gaku Highway",
+    "city": "Cevtivuj",
+    "state": "IL",
+    "zip": "62924"
+  },
+  "contact": {
+    "phone": "(428) 325-9183",
+    "servicePhone": "800948877"
+  },
+  "birthday": "1975-07-31T21:23:55.397Z",
+  "ip": "188.114.18.9",
+  "foo": "bar",
+  "profile": {
+    "about": "Ijezi mu he gapnuhmu su hecah banbikvum rucoszud bef up daf gatipo givkavsi wet. Lu goli coum enamotil li bo evihej vu da hid woc codlesir gudcofak bud. Dipzof vi udoadu gomozbe wopkeghi johwad mok cul piav dulin kenetbi erleh juremad. Puhil ziis gaij it ozfeapa zemecase reritfo sebzeh mujlozdif voh geog ejeolwut fo va.",
+    "bio": "Egiv ulu in idol ij tukinud omgoz ka junuso adaj imo pocomle muffiwa okuha fifabzi vi socozagi arutubbuw. Dobeb nud koncowu deik vaki jibsotul igovec gintukbo mocizuko le feafu jij imnejah osomitom pofobi ca wevmi. Sufegowo biwozle fezag ve he ahcicoc ha dituj vimnokom vewloni eko vu."
+  },
+  "apiKey": "e7424e688aeb839142763050dcd989e2f4a683cec47bafed2991042d242cd2d4",
+  "currency": {
+    "code": "CAD",
+    "name": "Canada Dollar"
+  }
+}
