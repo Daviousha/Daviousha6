@@ -1,0 +1,26 @@
+{
+  "name": "Derrick Nguyen",
+  "age": 65,
+  "address": {
+    "street": "Jikan Drive",
+    "city": "Reflela",
+    "state": "WI",
+    "zip": "33771"
+  },
+  "contact": {
+    "phone": "(240) 248-6882",
+    "servicePhone": "800383965"
+  },
+  "birthday": "1998-12-23T15:59:52.946Z",
+  "ip": "245.208.26.211",
+  "foo": "bar",
+  "profile": {
+    "about": "Kap manavo wigiron ow efice ariic udlavo saco kajadu do ren ku jahvolol dajri. Robgiduv fehgispag um fuciwdaf bevofsum verucohej nicawupa isu likiwi ceake doj pozwulliz ec ogo zu tagmarro wunfiela. Su fuvbaltal caesugoh lessasfab ti fiv haz uholijora ozcebcud lovzuc feh fibco giru. Kuvefig unajla ofki wosaj apegep fu zefuwo mobwiwij kikasan fububpa atetu biondo sah vi gamad pev umjusup.",
+    "bio": "Itkuni lizudhob zeuvi mem cemvullo up imoasdo finetuh fugah cuncauja ri igomitwo. Pu wipfonif waihi nerpojgak bifnijel zi fewkinu ricukita riduj izo tu op jef wuzulurom achazez tihnizoz. Gusiz wasuczit oro lehmumge duv jarueni fofkurzeh cagul eles so amoloncap na ducvi rucvej gevduduz. Uhusi jiheim lodhud ugoalhec owu zokogig umowajne ni sumose cu ladvubje zis lo ofajavar. Rawesvun sigubur tuk ceik iji pum cesegpuc pal mucvoh harov zuzukip govic."
+  },
+  "apiKey": "49b04a072e6be25fd52d88448bef9654a2853593c1b0c9c60e775da247fcb325",
+  "currency": {
+    "code": "MAD",
+    "name": "Morocco Dirham"
+  }
+}
