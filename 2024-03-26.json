@@ -1,0 +1,26 @@
+{
+  "name": "Alice Wood",
+  "age": 50,
+  "address": {
+    "street": "Uzta Extension",
+    "city": "Eheguti",
+    "state": "MS",
+    "zip": "87079"
+  },
+  "contact": {
+    "phone": "(463) 858-7887",
+    "servicePhone": "800673495"
+  },
+  "birthday": "1971-11-28T01:05:10.142Z",
+  "ip": "42.210.42.52",
+  "foo": "bar",
+  "profile": {
+    "about": "Cezmem sur ve da tam ga cabadoze sutolo si vud ijhodas etizhof pufi zaori atazode. Ugerav zov taf no ruwhiv gemsepke wiezpet ruz oco alu vibatirul tepsu za fokjehkuc parutu bago foz lehwekfuk. Ebogimem ulref duhwim wiwwi zorisij jo cesgi wolokusi nepzauj dotpeju og lufrer kutu. Sero ga toco sov dan jo hunuf bidlis ha jafmimib hul culjaihe pejig.",
+    "bio": "Ewleru unujig dazig pep gahsutvaw tulo he robevzop ajbe ijvolkes saomiilo sudi na tinbasu. Nohbug goulu hah hikgi wif zuwuda bawiflik tevaw fu bujovofi ebidetiz sej nimod. Rufsij guaveah ji omegade ocsese acewez gotot witawo lazditib kibepzo kikgi luis ape zalah musmowcig demgumzev."
+  },
+  "apiKey": "a6d44e4be40b8b6bcded539f2552ae67bbd3843baba0017dc53752e4f11451c8",
+  "currency": {
+    "code": "HNL",
+    "name": "Honduras Lempira"
+  }
+}
