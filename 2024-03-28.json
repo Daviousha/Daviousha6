@@ -1,0 +1,26 @@
+{
+  "name": "Rachel Nichols",
+  "age": 44,
+  "address": {
+    "street": "Siczin Path",
+    "city": "Fawmemujo",
+    "state": "NY",
+    "zip": "19476"
+  },
+  "contact": {
+    "phone": "(578) 996-7812",
+    "servicePhone": "800846764"
+  },
+  "birthday": "2006-11-04T21:54:15.981Z",
+  "ip": "65.136.65.80",
+  "foo": "bar",
+  "profile": {
+    "about": "Kig pa runireb pe ziim efugunnis lewoja jite tu redidate hognuhvok nov mehub tumkuzli rogji igagof. Ajaje itazu inhon li ujire sircowji dego wir lo ite wugcicipu ke zawe fubuv ja gi ponbasna. Wil pepe ebe jicara emuik lopfov niecuve halen poled dugda ni usu eni go iwmu ev bejodmir.",
+    "bio": "Nod rum zen go jupsi mis filheawa vih ale sut abmuhuzo wi de oc muz utura. Uprothe tazagzid gorsepra bicguevo guvzobwav su jukulca pevuwse rillifu aniobkas vaf ras hal tovite onkusceg kac bandowah. Aljovcil jeave won robipji pik umome dabreah ez ip fabwah korzupru mote buinici mo te akis."
+  },
+  "apiKey": "1eaa8265735f710f54b524b5413e3ce94e5815e3ae88741d14cfa72ef5855c64",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
