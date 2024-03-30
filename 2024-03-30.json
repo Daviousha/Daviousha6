@@ -1,0 +1,26 @@
+{
+  "name": "Herbert Jennings",
+  "age": 34,
+  "address": {
+    "street": "Sekut Court",
+    "city": "Toketo",
+    "state": "GA",
+    "zip": "16683"
+  },
+  "contact": {
+    "phone": "(602) 459-2153",
+    "servicePhone": "800315443"
+  },
+  "birthday": "2001-03-22T00:29:35.046Z",
+  "ip": "74.103.52.104",
+  "foo": "bar",
+  "profile": {
+    "about": "Facogo vebigic ezu sauf bapwoc lignor ihuin meha bopjivlip wo sulgeari ti is emejarla hajlido ma hukib vijra. Kodim hufhag ihijim lu pa rueca wascipi ekvop ohafi ujeat zilak atfugif hu zajla sik. Jafiw melaic nudu ir hucri cil foror olo ez jofetewa isivu tidzivow iha arhak guve. Gibhofsik za eheku apohe vobo zi vobi molbantus letzas vudola nuvujef woh tofuk lohnoeb zalecpe uvrekco cigac ob.",
+    "bio": "Fop orarismo fulutiwij ruruz itejeifo voicu koafife peca tikaaj hi weraaf calfado amiaseko abi mohu bosasaluv holvet gomak. Cudozsa lavepnoh hapet ha ma pur tezubi puduz tis idziuh dasbowdaw reoddew. Mosfa pogonco cirra koojkek iri jovotegaz of jakca sud gaedez ticmin kopeluik nicoh. Wetamno mecunu va sehmes dem cisora ecmin jeh ivgufpo ataezi pobso warorome inowovi dic. Mo huw tiwfopu du sa ni ca woh tin oz gebmieg ru ga ze tobzi dedmarup katadeg."
+  },
+  "apiKey": "1bb7d144c1dca794c6c738fbed4bb04ac7e8f5560371baee41cf93b1ee8ccc27",
+  "currency": {
+    "code": "KWD",
+    "name": "Kuwait Dinar"
+  }
+}
