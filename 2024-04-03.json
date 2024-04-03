@@ -1,0 +1,26 @@
+{
+  "name": "Josie Gray",
+  "age": 50,
+  "address": {
+    "street": "Samo Road",
+    "city": "Tumuzo",
+    "state": "IL",
+    "zip": "97907"
+  },
+  "contact": {
+    "phone": "(650) 549-1650",
+    "servicePhone": "800315359"
+  },
+  "birthday": "1998-07-13T11:30:52.770Z",
+  "ip": "220.9.39.20",
+  "foo": "bar",
+  "profile": {
+    "about": "Avegip zejif sic ok ivkuibe guslivwa fut puucse budokmim kepgocev gusuzu ufuve muwses. Moc la feusco ku tuhu hooju sablozov hepor diogeso umore ka ruz jovekfil. Nempis uwce ewipakenu adzator tauhawas gersuw la ozacunbuc funawgu nuppiso leldira rutovdi.",
+    "bio": "Kuat rangota nafasnuw zitoso bedo vidozi ihukakfu wu zutzufa jecju togi ho. Gawuz gedpipa jos ge pu ucubi bowbirkuj guzha cavkabwuc wogoh zehninzuw wuirsu kanu. Dohnet ab pigjupav zenet legis otubaddih jokibi vezomfa ler wigef ajnu jodkuj. Pamca ahhimduw ovtirno puh gakjovajo zo zujripeti uvipujuz duw fesefacec jetaf kap ropvuc. Tucob hubeg nihoup de usizoji wesgo fejruz dusriwkac bico ubiebo laba banarud jazogti."
+  },
+  "apiKey": "5aeb3336b1323acde1cd46f22e8aff8dfb875a092ec8fc4b7eb20a3c8fe44e0c",
+  "currency": {
+    "code": "BZD",
+    "name": "Belize Dollar"
+  }
+}
