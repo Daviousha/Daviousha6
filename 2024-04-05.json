@@ -1,0 +1,26 @@
+{
+  "name": "Lucille Frank",
+  "age": 51,
+  "address": {
+    "street": "Idtu Boulevard",
+    "city": "Rouvata",
+    "state": "VA",
+    "zip": "28222"
+  },
+  "contact": {
+    "phone": "(317) 687-3220",
+    "servicePhone": "800816269"
+  },
+  "birthday": "1959-09-28T00:58:20.464Z",
+  "ip": "150.173.76.168",
+  "foo": "bar",
+  "profile": {
+    "about": "Vi tenhuh te tiw buzu oj hikaz pilhehraw lek ba rakvoso rasdu ju mosof uj ecpaesa. Simlu ufwo re naka hi vovo weuse duudaje efu gog janaad babwosi. Fol feczotvi fezu dacze famvizru usobapi wilis lorpe cedefvo nik guv gemaza ofhorwu wuatadon gil di aru rolic.",
+    "bio": "Radvira fo ibipil hicmifaf peniw uwuze je docsiru bemdudwad woz fir diladpor kaveci pu. Ovfopkif inabumes je ufeid da fifomi uroig vukhucu nun rac nekaffet esruh desebon ofo iwonad efcu usona vumuphob. Oba naro ke deziot juwfobtuh cu kietiluj we ru wopis fullem utaila hatbuz. Igi mif kigpaz pibi owu ila isu zajwik vaum dam gigimjat vukezir hof nufcik ni weltoju mam."
+  },
+  "apiKey": "184f610a84b409e314452cdbc3526d51ba7cff96df667320f66c73fd112426b7",
+  "currency": {
+    "code": "CLP",
+    "name": "Chile Peso"
+  }
+}
